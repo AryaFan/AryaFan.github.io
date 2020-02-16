@@ -18,6 +18,21 @@
   </url>
   
   <url>
+    <loc>https://aryafan.github.io/en/categories/</loc>
+    <lastmod>2020-02-15T16:41:33-05:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="cn"
+                href="https://aryafan.github.io/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://aryafan.github.io/en/categories/"
+                />
+  </url>
+  
+  <url>
     <loc>https://aryafan.github.io/en/posts/my-first-post/</loc>
     <lastmod>2020-02-15T16:41:33-05:00</lastmod>
   </url>
@@ -38,17 +53,8 @@
   </url>
   
   <url>
-    <loc>https://aryafan.github.io/en/categories/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="cn"
-                href="https://aryafan.github.io/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://aryafan.github.io/en/categories/"
-                />
+    <loc>https://aryafan.github.io/en/categories/tech-notes/</loc>
+    <lastmod>2020-02-15T16:41:33-05:00</lastmod>
   </url>
   
   <url>
