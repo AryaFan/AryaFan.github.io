@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on AryaFan&#39;s Blog</title>
-    <link>http://example.org/posts/</link>
+    <link>https://aryafan.github.io/posts/</link>
     <description>Recent content in Posts on AryaFan&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 15 Feb 2020 20:47:25 -0500</lastBuildDate>
     
-	<atom:link href="http://example.org/posts/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://aryafan.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>江湖再见</title>
-      <link>http://example.org/posts/%E6%B1%9F%E6%B9%96%E5%86%8D%E8%A7%81/</link>
+      <link>https://aryafan.github.io/posts/%E6%B1%9F%E6%B9%96%E5%86%8D%E8%A7%81/</link>
       <pubDate>Sat, 15 Feb 2020 20:47:25 -0500</pubDate>
       
-      <guid>http://example.org/posts/%E6%B1%9F%E6%B9%96%E5%86%8D%E8%A7%81/</guid>
+      <guid>https://aryafan.github.io/posts/%E6%B1%9F%E6%B9%96%E5%86%8D%E8%A7%81/</guid>
       <description>作为一个深度豆瓣中毒患者，从没想过以这种方式告别豆瓣。
 新冠肺炎，这场灾难，被我和我的小家庭侥幸逃脱了，最直接的负面影响就是豆瓣不好用：日记不能写了，发广播经常被审核、发送失败，评论也不可以想说什么就说什么，喜欢的文章没多久就不见了，吃了豆油好几记警告。
 灾难本身并不十足可怕，可怕的是后续的一系列操作：

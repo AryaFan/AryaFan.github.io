@@ -3,65 +3,65 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://example.org/</loc>
+    <loc>https://aryafan.github.io/</loc>
     <lastmod>2020-02-15T20:47:25-05:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://example.org/en/"
+                href="https://aryafan.github.io/en/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="cn"
-                href="http://example.org/"
+                href="https://aryafan.github.io/"
                 />
   </url>
   
   <url>
-    <loc>http://example.org/posts/</loc>
+    <loc>https://aryafan.github.io/posts/</loc>
     <lastmod>2020-02-15T20:47:25-05:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://example.org/en/posts/"
+                href="https://aryafan.github.io/en/posts/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="cn"
-                href="http://example.org/posts/"
+                href="https://aryafan.github.io/posts/"
                 />
   </url>
   
   <url>
-    <loc>http://example.org/posts/%E6%B1%9F%E6%B9%96%E5%86%8D%E8%A7%81/</loc>
+    <loc>https://aryafan.github.io/posts/%E6%B1%9F%E6%B9%96%E5%86%8D%E8%A7%81/</loc>
     <lastmod>2020-02-15T20:47:25-05:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/categories/</loc>
+    <loc>https://aryafan.github.io/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://example.org/en/categories/"
+                href="https://aryafan.github.io/en/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="cn"
-                href="http://example.org/categories/"
+                href="https://aryafan.github.io/categories/"
                 />
   </url>
   
   <url>
-    <loc>http://example.org/tags/</loc>
+    <loc>https://aryafan.github.io/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://example.org/en/tags/"
+                href="https://aryafan.github.io/en/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="cn"
-                href="http://example.org/tags/"
+                href="https://aryafan.github.io/tags/"
                 />
   </url>
   
