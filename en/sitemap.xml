@@ -3,72 +3,58 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://aryafan.github.io/en/</loc>
+    <loc>https://aryafan.github.io/</loc>
     <lastmod>2020-02-15T16:41:33-05:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="cn"
+                href="https://aryafan.github.io/cn/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
                 href="https://aryafan.github.io/"
                 />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://aryafan.github.io/en/"
-                />
   </url>
   
   <url>
-    <loc>https://aryafan.github.io/en/categories/</loc>
+    <loc>https://aryafan.github.io/categories/</loc>
     <lastmod>2020-02-15T16:41:33-05:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="cn"
+                href="https://aryafan.github.io/cn/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
                 href="https://aryafan.github.io/categories/"
                 />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://aryafan.github.io/en/categories/"
-                />
   </url>
   
   <url>
-    <loc>https://aryafan.github.io/en/posts/my-first-post/</loc>
+    <loc>https://aryafan.github.io/posts/howibuiltthisblog/</loc>
     <lastmod>2020-02-15T16:41:33-05:00</lastmod>
   </url>
   
   <url>
-    <loc>https://aryafan.github.io/en/posts/</loc>
+    <loc>https://aryafan.github.io/posts/</loc>
     <lastmod>2020-02-15T16:41:33-05:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="cn"
+                href="https://aryafan.github.io/cn/posts/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
                 href="https://aryafan.github.io/posts/"
                 />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://aryafan.github.io/en/posts/"
-                />
   </url>
   
   <url>
-    <loc>https://aryafan.github.io/en/categories/web/</loc>
+    <loc>https://aryafan.github.io/categories/web/</loc>
     <lastmod>2020-02-15T16:41:33-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aryafan.github.io/en/tags/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="cn"
-                href="https://aryafan.github.io/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://aryafan.github.io/en/tags/"
-                />
   </url>
   
 </urlset>

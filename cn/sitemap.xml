@@ -3,72 +3,58 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://aryafan.github.io/</loc>
+    <loc>https://aryafan.github.io/cn/</loc>
     <lastmod>2020-02-15T20:47:25-05:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://aryafan.github.io/en/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="cn"
                 href="https://aryafan.github.io/"
                 />
+    <xhtml:link
+                rel="alternate"
+                hreflang="cn"
+                href="https://aryafan.github.io/cn/"
+                />
   </url>
   
   <url>
-    <loc>https://aryafan.github.io/categories/</loc>
+    <loc>https://aryafan.github.io/cn/categories/</loc>
     <lastmod>2020-02-15T20:47:25-05:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://aryafan.github.io/en/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="cn"
                 href="https://aryafan.github.io/categories/"
                 />
+    <xhtml:link
+                rel="alternate"
+                hreflang="cn"
+                href="https://aryafan.github.io/cn/categories/"
+                />
   </url>
   
   <url>
-    <loc>https://aryafan.github.io/posts/</loc>
+    <loc>https://aryafan.github.io/cn/posts/</loc>
     <lastmod>2020-02-15T20:47:25-05:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://aryafan.github.io/en/posts/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="cn"
                 href="https://aryafan.github.io/posts/"
                 />
-  </url>
-  
-  <url>
-    <loc>https://aryafan.github.io/posts/%E6%B1%9F%E6%B9%96%E5%86%8D%E8%A7%81/</loc>
-    <lastmod>2020-02-15T20:47:25-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aryafan.github.io/categories/%E8%B1%86%E7%93%A3%E6%97%A5%E5%BF%97/</loc>
-    <lastmod>2020-02-15T20:47:25-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aryafan.github.io/tags/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://aryafan.github.io/en/tags/"
-                />
     <xhtml:link
                 rel="alternate"
                 hreflang="cn"
-                href="https://aryafan.github.io/tags/"
+                href="https://aryafan.github.io/cn/posts/"
                 />
+  </url>
+  
+  <url>
+    <loc>https://aryafan.github.io/cn/posts/%E6%B1%9F%E6%B9%96%E5%86%8D%E8%A7%81/</loc>
+    <lastmod>2020-02-15T20:47:25-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://aryafan.github.io/cn/categories/%E8%B1%86%E7%93%A3%E6%97%A5%E5%BF%97/</loc>
+    <lastmod>2020-02-15T20:47:25-05:00</lastmod>
   </url>
   
 </urlset>
